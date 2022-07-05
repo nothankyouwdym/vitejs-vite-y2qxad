@@ -33,6 +33,7 @@
  * Remove the margin in all browsers.
  */
 body {
+  
   text-align: center;
   margin: 0;
 }
@@ -378,6 +379,7 @@ html {
 }
 
 body {
+  font-family: cursive,cursive;
   color: #404040;
   background: white;
   font-size: 1rem;
@@ -406,7 +408,7 @@ h4,
 h5 {
   margin: 1.5rem 0;
   font-weight: 600;
-  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: cursive,cursive;
   line-height: 1.2;
   color: #404040;
 }
