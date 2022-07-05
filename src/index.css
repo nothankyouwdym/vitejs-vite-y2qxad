@@ -413,6 +413,10 @@ h5 {
   color: #404040;
 }
 
+span{
+  margin-inline: 10px;
+}
+
 h1:not(:first-child),
 h2:not(:first-child),
 h3:not(:first-child),
